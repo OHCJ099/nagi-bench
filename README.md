@@ -49,7 +49,7 @@ NAGI STUDIO 的 LLM 测评案例集：同一段提示词，不同「模型 × Ha
 | Gemini 3.1 Pro | Google | AntiGravity · High<br>Cursor · Default<br>Gemini Web · Deep Think<br>Google AI Studio · High | 11 |
 | Gemini 3.6 Flash | Google | AntiGravity · High | 05 |
 | DeepSeek V4 Flash | DeepSeek | Claude Code · Max<br>Reasonix · Max | 02 |
-| DeepSeek V4 Flash 0731 | DeepSeek | Claude Code · Max | 04 |
+| DeepSeek V4 Flash 0731 | DeepSeek | Claude Code · Max<br>OMP · Default | 05（仅展示 01） |
 | Gemini 3.5 Flash | Google | AntiGravity · High<br>Cursor · Default<br>Google AI Studio · High | 06 |
 | Grok 4.5 | xAI | Grok Build TUI · High | 03 |
 | Grok Build | xAI | Grok Build TUI · Max | 02 |
@@ -72,7 +72,7 @@ NAGI STUDIO 的 LLM 测评案例集：同一段提示词，不同「模型 × Ha
 | GLM-5.1 | Zhipu AI | ZCode · Max | 01 |
 | GLM-5 Turbo | Zhipu AI | ZCode · Thinking | 03 |
 | Qwen3.7-Max | Alibaba | Qoder · Default | 03 |
-| Qwen3.8-Max-Preview | Alibaba | Qoder · Default | 05 |
+| Qwen3.8-Max-Preview | Alibaba | Qoder · Default<br>Qwen Studio Web · Thinking | 06 |
 | Qwen 3.6 27B | Alibaba | OMP · Default | 01（仅展示 01） |
 | Step 3.7 Flash | StepFun | Claude Code · High | 02 |
 | Spark X2 | iFlytek | Web · Reasoning | 01 |
